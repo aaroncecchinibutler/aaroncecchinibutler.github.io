@@ -1,0 +1,86 @@
+body {
+  background-image: url('https://static1.squarespace.com/static/5a108d63f09ca45b73be1d81/t/5a39424324a6945d30e72e6c/1513702049487/IMG_0117.jpg?format=1500w');
+  color: white;
+  background-size: 1700px 2266px;
+  background-repeat: no-repeat;
+}
+h1 {
+  text-align:center;
+  font-family:helveticaneue;
+  font-weight:bold;
+  color: rgba(255,255,255,.5);
+}
+h2 {
+  text-align:center;
+  font-family: muli;
+  font-weight: 300;
+  color:rgb(86,86,86);
+}
+ul {
+  margin:0 auto;
+  text-align:center;
+
+}
+li {
+    display:inline-block;
+    font-family: futura;
+    font-weight: 100;
+    text-align:center;
+    margin:0 auto;
+    padding:30px;
+    border:1px solid white;
+    border-radius:100px;
+    border-width:thin;
+    margin-top:3px;
+    margin-bottom:3px;
+}
+li:hover {
+  box-shadow: 0 15px 15px 0 rgba(255, 255, 255, 0.3);
+  font-weight: 500;
+}
+p {
+  text-align: left;
+  font-family: futura;
+  font-weight: 100;
+  padding-left: 420px;
+}
+
+h3 {
+  text-align: left;
+  font-family: helveticaneue;
+  font-weight:bold;
+  padding: 0px 380px 0px 420px;
+
+}
+
+#bio {
+  padding-top: 70px;
+}
+#edhead {
+  padding-top: 40px;
+}
+#ed {
+  padding-top: 3px;
+}
+.images {
+  display:block;
+  margin:0 auto;
+  border-radius: 60px;
+  background-color: rgba(255, 255, 255, .5);
+}
+.images:hover {
+  box-shadow: 0px 0px 0px 200px rgba(0, 0, 0, .1)
+}
+
+.links {
+  color: rgba(255, 255, 255, .8);
+  font-family: muli;
+  font-weight: 100;
+  text-align:center;
+  display:block;
+  margin: 30px 0 0 0;
+}
+
+.links:hover {
+  font-weight:bold;
+}
